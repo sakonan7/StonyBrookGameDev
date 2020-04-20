@@ -92,11 +92,12 @@
 }
 
 #team {
-	border-style: solid;
+	border-style: double;
 	border-color: darkgray;
+	border-width: 6px;
 	font-size: 18px;
 	padding: 8px;
-	height: 135px;
+	height: 140px;
 	width:98.5%;
 }
 
