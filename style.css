@@ -1,0 +1,121 @@
+@charset "utf-8";
+/* CSS Document */
+
+#sidebar {
+	width: 270px;
+	height: 1090px;
+	border-style: double;
+	border-color: black;
+	border-radius: 3px;
+	padding: 4px;
+}
+#sidebar2 {
+	width: 265px;
+	height: 1085px;
+	border-style: double;
+	border-color: darkblue;
+}
+#subsidebar {
+	float:left;
+	width: 247px;
+	height:1157px;
+	background-color: rgba(211, 211, 211, 0.747);
+	padding: 2px;
+}
+
+#mainbar {
+	float: left;
+	width: 1188px;
+	height: 1100px;
+	border-style: double;
+	border-color: darkblue;
+	border-radius: 3px;
+}
+#secondmainbar {
+	float: left;
+	width: 1165px;
+	height: 1077px;
+	border-style: double;
+	border-color: darkblue;
+	border-radius: 3px;
+	background-color: white;
+	padding: 5px;
+}
+#submainbar {
+	float:left;
+	height:1092px;
+	width: 1180px;
+	background-color: rgba(211, 211, 211, 0.747);
+	padding: 4px;
+}
+#divider {
+	float: left;
+	width: 15px;
+	height: 1000px;
+}
+#horizontalDiv {
+	float: left;
+	width: 190px;
+	height: 40px;
+}
+
+#typography {
+	width: 99%;
+	height: 245px;
+	border-style: solid;
+	border-color: darkblue;
+	border-width: 1px;
+	padding-left: 10px;
+	padding-top: 10px;
+}
+#paragraph {
+	width: 95%;
+	height: 780px;
+	padding-left: 25px;
+}
+
+#navigation {
+	width: 195px;
+	height: 234px;
+	border-style: solid;
+	border-color: gray;
+}
+
+#button {
+	width: 98%;
+	height: 30px;
+	border-style: solid;
+	border-color: lightgray;
+	font-size: 18px;
+	text-align: center;
+	padding-top: 8px;
+}
+
+#team {
+	border-style: solid;
+	border-color: darkgray;
+	font-size: 18px;
+	padding: 8px;
+	height: 135px;
+	width:98.5%;
+}
+
+#history {
+	text-align: center;
+	height: 30px;
+	width: 900px;
+	float: left;
+	font-size: 20px;
+}
+
+
+
+
+
+
+
+
+
+
+
+
